@@ -4,7 +4,7 @@ Logistic regression to predict which news topic will trend on social media given
 The purpose of this project is to predict which variables will determine a news article to be popular and get shared on social media. 
 ## EDA
 
-![Imgur](https://imgur.com/meD0Aqn)
+![img]https://i.imgur.com/meD0Aqn.png[/img]
 
 ![Imgur](https://imgur.com/gYltnpM)
 
