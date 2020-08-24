@@ -4,9 +4,9 @@ Logistic regression to predict which news topic will trend on social media given
 The purpose of this project is to predict which variables will determine a news article to be popular and get shared on social media. 
 ## EDA
 
-[Imgur](https://imgur.com/meD0Aqn)
+![Imgur](https://imgur.com/meD0Aqn)
 
-[Imgur](https://imgur.com/gYltnpM)
+![Imgur](https://imgur.com/gYltnpM)
 
 The maximum number of shared articles were in the range 1000 to 3000.
 
@@ -15,13 +15,13 @@ There are a lot of outliers in this dataset and were removed using IQR and the Z
 
 ## Models used for this dataset and outcomes:
 
-[Imgur](https://imgur.com/ZvztTPC)
+![Imgur](https://imgur.com/ZvztTPC)
 
 Random Forest showed the highest accuracy with XGBoost being a close second. 
 
 Confusion Matrix of Random Forest:
 
-[Imgur](https://imgur.com/Eefiy9u)
+![Imgur](https://imgur.com/Eefiy9u)
 
  
 True positives: 3877 
@@ -39,13 +39,13 @@ Recall=TP/ (TP+FN) =3877/ (3877+1949) =0.6654
 ## Outcomes
 Lifestyle data channel got the maximum number of shares. While social media got the least number of shares.
 
-[Imgur](https://imgur.com/XjGPVcG)
+![Imgur](https://imgur.com/XjGPVcG)
 
-[Imgur](https://imgur.com/99ajmFf)
+![Imgur](https://imgur.com/99ajmFf)
 
 Saturday was the most popular day to share:
 
-[Imgur](https://imgur.com/ys1e90F)
+![Imgur](https://imgur.com/ys1e90F)
 
 
 
