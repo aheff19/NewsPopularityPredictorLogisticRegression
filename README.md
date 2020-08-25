@@ -6,7 +6,7 @@ The purpose of this project is to predict which variables will determine a news 
 
 ![img]https://i.imgur.com/meD0Aqn.png[/img]
 
-![Imgur](https://imgur.com/gYltnpM)
+![Imgur](https://imgur.com/gYltnpM.png)
 
 The maximum number of shared articles were in the range 1000 to 3000.
 
